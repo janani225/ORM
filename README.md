@@ -47,7 +47,8 @@ class EmployeeAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![image](https://github.com/janani225/ORM/assets/113497333/f20d7286-2c7c-4378-b09d-123a02180878)
+![image](https://github.com/janani225/ORM/assets/113497333/0b64ee38-f8ec-433d-968d-fa47539c09e6)
+
 
 
 
